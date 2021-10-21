@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Prein"
+  given-names: "Andreas Franz"
+  orcid: "https://orcid.org/0000-0001-6250-179X"
+title: "California_extreme-fire-weather-types"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-10-21
+url: "https://github.com/AndreasPrein/California_extreme-fire-weather-types"
